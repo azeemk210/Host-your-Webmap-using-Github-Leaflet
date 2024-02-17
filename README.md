@@ -15,4 +15,5 @@ Bus stops: Markers representing nearby bus stops are now displayed on the map.
 Bike lanes: Bike lanes are visualized as polylines or GeoJSON data for enhanced navigation.
 OSM basemap: The map now utilizes OpenStreetMap as the default base layer, providing detailed and up-to-date visual context.
 
-DIfferent routes can be selected based on traffic.
+DIfferent routes can be selected based on traffic. 
+Multiple layer selection.
